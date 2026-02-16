@@ -1,9 +1,9 @@
+# codeberg.org/jwijenbergh/eduoauth-go/v2 v2.0.1
+## explicit; go 1.20
+codeberg.org/jwijenbergh/eduoauth-go/v2
 # github.com/godbus/dbus/v5 v5.2.2
 ## explicit; go 1.20
 github.com/godbus/dbus/v5
-# github.com/jwijenbergh/eduoauth-go v1.1.2
-## explicit; go 1.20
-github.com/jwijenbergh/eduoauth-go
 # github.com/jwijenbergh/purego v0.0.0-20251017112123-b71757b9ba42
 ## explicit; go 1.18
 github.com/jwijenbergh/purego
@@ -31,25 +31,25 @@ github.com/jwijenbergh/puregotk/v4/pango
 # github.com/youmark/pkcs8 v0.0.0-20240726163527-a2c0da244d78
 ## explicit; go 1.17
 github.com/youmark/pkcs8
-# golang.org/x/crypto v0.47.0
+# golang.org/x/crypto v0.48.0
 ## explicit; go 1.24.0
 golang.org/x/crypto/pbkdf2
 golang.org/x/crypto/scrypt
-# golang.org/x/exp v0.0.0-20260112195511-716be5621a96
-## explicit; go 1.24.0
+# golang.org/x/exp v0.0.0-20260212183809-81e46e3db34a
+## explicit; go 1.25.0
 golang.org/x/exp/slices
 golang.org/x/exp/slog
 golang.org/x/exp/slog/internal
 golang.org/x/exp/slog/internal/buffer
-# golang.org/x/sys v0.40.0
+# golang.org/x/sys v0.41.0
 ## explicit; go 1.24.0
 golang.org/x/sys/plan9
 golang.org/x/sys/unix
 golang.org/x/sys/windows
-# golang.org/x/term v0.39.0
+# golang.org/x/term v0.40.0
 ## explicit; go 1.24.0
 golang.org/x/term
-# golang.org/x/text v0.33.0
+# golang.org/x/text v0.34.0
 ## explicit; go 1.24.0
 golang.org/x/text/internal/language
 golang.org/x/text/internal/language/compact
